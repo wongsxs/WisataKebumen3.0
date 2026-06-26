@@ -270,9 +270,11 @@ QR Code hanya dapat digunakan **satu kali**.
 - Biaya Operasional Sangat Rendah
 
 ---
-
-# 👨‍💻 Developer
-
-**YuuDev**
+👨‍💻 kelompok
+1. Naehati Zullaikha TI1024007
+2. Nova Tivany Zahro TI1024008
+3. Tri Wahyudi TI1024025
+4. Gilang Muhamad Arif TI1024016
+5. Faiq Khusnudin TI1024014
 
 Wisata Kebumen © 2026
